@@ -9,6 +9,7 @@ namespace testGitStrategies
             Console.WriteLine("Hello World! UPDATE HF1");
             Console.WriteLine("Hello World! UPDATE CMS-TESTE3");
             Console.WriteLine("Hello World! UPDATE CMS-TESTE4");
+            Console.WriteLine("Hello World! UPDATE CMS-TESTE5");
         }
     }
 }
