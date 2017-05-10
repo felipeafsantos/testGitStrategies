@@ -1,0 +1,2 @@
+# testGitStrategies
+Just a test
